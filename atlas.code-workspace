@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "atlas_client"
+	},
+	{
+		"path": "atlas_flutter"
+	},
+	{
+		"path": "atlas_server"
+	}
+],
+  "settings": {}
+}

@@ -1,0 +1,11 @@
+class: MapRecord
+table: maps_records
+fields:
+  title: String
+  barcode: String
+  date: DateTime
+  num: int
+  scale: String
+  destination: String
+  documents: List<String>
+  notes: String
